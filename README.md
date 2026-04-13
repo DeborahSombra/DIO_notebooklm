@@ -38,13 +38,16 @@ Como a vida moderna contribui para o aumento da ansiedade e quais estratégias p
   
 ## 5. Prompts Testados no NotebookLM
 - Explique o conceito de ansiedade com base nas fontes enviadas.
-- Qual a diferença entre ansiedade normal e transtorno de ansiedade?
-- Prompt 3
+- Qual a diferença entre a ansiedade normal e a patológica?
+- Quais são as causas da ansiedade na vida moderna?
+  
 
 ## 6. Principais Aprendizados
-- aprendizado 1
-- aprendizado 2
-- aprendizado 3
+- A ansiedade é uma resposta natural do organismo diante de situações percebidas como ameaçadoras.
+- Nem toda ansiedade representa um transtorno, mas ela passa a exigir atenção quando se torna intensa, frequente e incapacitante.
+- Aspectos da vida moderna, como excesso de estímulos, conectividade constante e pressão por desempenho, podem contribuir para o aumento da ansiedade.
+- A ansiedade afeta não apenas o emocional, mas também o corpo, os pensamentos e os comportamentos.
+- Estratégias de manejo, como organização da rotina, respiração, psicoterapia e autocuidado, podem ajudar a reduzir impactos e melhorar a qualidade de vida.
 
 ## 7. Mini Guia de Estudo
 ### 7.1 O que é ansiedade?
@@ -54,18 +57,20 @@ Como a vida moderna contribui para o aumento da ansiedade e quais estratégias p
 ### 7.5 Estratégias de enfrentamento
 
 ## 8. Glossário
-- Ansiedade: resposta emocional e fisiológica diante de ameaça ou antecipação.
-- Transtorno de ansiedade: condição em que a ansiedade se torna excessiva e prejudica a vida cotidiana.
-- Hiperconectividade: estado de conexão constante a informações, redes e estímulos digitais.
-- Sobrecarga mental: excesso de demandas cognitivas e emocionais.
-- Regulação emocional: capacidade de reconhecer e manejar emoções.
-- Evitação: comportamento de fugir de situações que geram desconforto.
-- Estressor: fator que desencadeia tensão ou resposta emocional.
+- Síndrome do Pensamento Acelerado (SPA): Desgaste cerebral gerado pelo excesso de informações e estímulos da vida moderna, onde o cérebro produz pensamentos numa velocidade que o indivíduo não consegue gerenciar, resultando em fadiga, irritabilidade e falta de concentração
+- Sintomas Somáticos: Manifestações físicas decorrentes da ativação do sistema nervoso na ansiedade, incluindo taquicardia, sudorese, tremores, tensão muscular, tonturas e distúrbios do sono
+- Técnica DCD (Duvidar, Criticar e Decidir): Ferramenta de higiene mental para gerenciar pensamentos perturbadores: Duvidar de crenças falsas, Criticar pensamentos negativos e Decidir agir com lucidez e segurança
+- Transtorno de Ansiedade Generalizada (TAG): Estado de preocupação excessiva e persistente sobre diversas atividades ou eventos cotidianos, durando a maior parte dos dias por pelo menos 6 meses
+- Transtorno de Ansiedade Social (ou Fobia Social): Medo intenso de situações em que a pessoa possa ser avaliada ou julgada por outros, temendo agir de forma humilhante ou embaraçosa
+- Transtorno de Estresse Pós-Traumático (TEPT): Conjunto de reações que surgem após a exposição a um evento traumático grave (ameaça de morte ou violência), caracterizado por lembranças intrusivas (flashbacks) e pesadelos recorrentes
+- Transtorno Obsessivo-Compulsivo (TOC): Presença de obsessões (pensamentos ou imagens repetitivos e intrusivos que geram ansiedade) e/ou compulsões (atos ou rituais repetitivos realizados para tentar anular a ansiedade causada pelas obsessões)
 
 ## 9. Prompts Reutilizáveis
-- prompt 1
-- prompt 2
-- prompt 3
-
+- Resuma este conteúdo em linguagem simples.
+- Explique os principais conceitos deste material.
+- Compare as ideias apresentadas nas fontes.
+- Crie um glossário com os termos mais importantes.
+- Transforme este conteúdo em perguntas e respostas para revisão.
+  
 ## 10. Conclusão
-[fechamento]
+O estudo sobre ansiedade na vida moderna permitiu compreender que esse fenômeno vai além de uma simples preocupação do dia a dia. Embora a ansiedade seja uma resposta natural do ser humano, o contexto contemporâneo pode intensificar sua frequência e impacto, especialmente diante de excesso de estímulos, pressões sociais e dificuldade de desacelerar. A organização das fontes no NotebookLM facilitou a síntese dos conteúdos, a comparação entre materiais e a construção de um guia de revisão mais claro e prático. Assim, o projeto contribuiu tanto para o aprofundamento teórico sobre o tema quanto para o desenvolvimento de uma forma mais estruturada de estudar com apoio de IA.
