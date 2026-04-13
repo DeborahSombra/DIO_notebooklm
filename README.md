@@ -1,6 +1,8 @@
 # DIO_notebooklm
 Repositório para o desafio - Explore o Poder do NotebookLM
 -------------------------------------------------------------
+https://notebooklm.google.com/notebook/58f05f2a-7a7d-4aa6-bc12-c1cc26947b01
+-------------------------------------------------------------
 # Ansiedade na Vida Moderna
 
 ## 1. Contexto
